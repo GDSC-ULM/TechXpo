@@ -65,6 +65,14 @@ Apply now to secure your spot in the GDSC project showcase! [Registration Link](
 
 For outstanding freshman and sophomore projects, we offer special certificates. These recognitions support early-stage students as they develop skills and engage with the tech community.
 
+## Project Judging Criteria
+Projects will be judged on the following criteria:
+- **Innovation and Creativity:** Originality in addressing problems and introducing new ideas.
+- **Technical Proficiency:** Quality and complexity of the technology and methodologies used.
+- **Relevance and Impact:** Alignment with the project description and potential effects on the community or industry.
+- **Presentation Clarity and Engagement:** Effectiveness in communicating ideas and engaging the audience.
+- **Documentation and Research Quality:** Thoroughness of project documentation and the depth of research conducted.
+
 ## Frequently Asked Questions (FAQs)
 
 <details>
@@ -87,12 +95,6 @@ You can register by filling out the [registration form](https://webservices.ulm.
 Yes, we will provide drinks and snacks for all participants during the event.
 </details>
 
-<details>
-<summary>5. What is the timeline for the event?</summary>
-- **10:00 AM – 10:30 AM:** Opening Ceremony and Event Introduction  
-- **10:30 AM – 12:30 PM:** Tech Showcases and Presentations  
-- **12:30 PM – 1:30 PM:** Award Ceremony and Closing Remarks  
-</details>
 
 <details>
 <summary>6. How can I get support for my project?</summary>
