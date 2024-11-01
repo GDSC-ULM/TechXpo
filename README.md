@@ -49,15 +49,11 @@ Apply now to secure your spot in the GDSC project showcase! [Registration Link](
    - **Prize:** Keyboard + $25 per team member  
    - **Description:** Chosen by event attendees, this award encourages engagement and celebrates the project that resonates most with the audience. It’s a testament to the project’s appeal and impact.
 
-3. **Best Use of Technology**  
-   - **Prize:** Mouse + $25 per team member  
-   - **Description:** This award highlights the team that demonstrates the most effective or innovative use of technology, showcasing a deep understanding of tech to enhance their solution.
-
-4. **Best Interdisciplinary Project**  
-   - **Prize:** $25 per team member  
+3. **Best Interdisciplinary Project**  
+   - **Prize:** Mouse + $25 per team member
    - **Description:** Acknowledges the team that successfully merges insights from multiple fields, such as medtech, biotech, or IT, to create a project with a broad or unique perspective.
 
-5. **Domain Expert Award**  
+4. **Domain Expert Award**  
    - **Prize:** $25 per team member + Domain expert recognition  
    - **Description:** Honors outstanding research contributions that significantly advance knowledge in a specific domain.
 
