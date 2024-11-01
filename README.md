@@ -57,9 +57,8 @@ Apply now to secure your spot in the GDSC project showcase! [Registration Link](
    - **Prize:** $25 per team member + Domain expert recognition  
    - **Description:** Honors outstanding research contributions that significantly advance knowledge in a specific domain.
 
-### Honorable Mentions
-
-For outstanding freshman and sophomore projects, we offer special certificates. These recognitions support early-stage students as they develop skills and engage with the tech community.
+5. Honorable Mentions
+ - **Description:** For outstanding freshman and sophomore projects, we offer special certificates. 
 
 ## Project Judging Criteria
 Projects will be judged on the following criteria:
