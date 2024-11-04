@@ -35,7 +35,7 @@ Apply now to secure your spot in the GDSC project showcase! [Registration Link](
 - **Play Zone:** VR, 3D Printer, Drones  
   Experience hands-on technology and engage with interactive displays.
 
-- **Project Showcase Zone:** Participants will showcase their projects and work to judges and visitors.
+- **Project Showcase Zone:** Participants will showcase their projects and works to judges and visitors.
 
 ## Awards and Prizes
 
@@ -45,20 +45,20 @@ Apply now to secure your spot in the GDSC project showcase! [Registration Link](
    - **Prize:** Monitor + $25 per team member  
    - **Description:** Awarded to the project that excels across all criteria, from innovative ideas to technical precision. This top honor recognizes exceptional creativity, problem-solving, and execution.
 
-2. **People’s Choice Award**  
-   - **Prize:** Keyboard + $25 per team member  
-   - **Description:** Chosen by event attendees, this award encourages engagement and celebrates the project that resonates most with the audience. It’s a testament to the project’s appeal and impact.
-
+2. **Domain Expert Award**    
+   - **Prize:** Keyboard + $25 per team member
+   - **Description:** Honors outstanding research contributions that significantly advance knowledge in a specific domain.
+   
 3. **Best Interdisciplinary Project**  
    - **Prize:** Mouse + $25 per team member
    - **Description:** Acknowledges the team that successfully merges insights from multiple fields, such as medtech, biotech, or IT, to create a project with a broad or unique perspective.
 
-4. **Domain Expert Award**  
-   - **Prize:** $25 per team member + Domain expert recognition  
-   - **Description:** Honors outstanding research contributions that significantly advance knowledge in a specific domain.
+4. **People’s Choice Award**
+   - **Prize:** $25 per team member + Domain expert recognition
+   - **Description:** Chosen by event attendees, this award encourages engagement and celebrates the project that resonates most with the audience. It’s a testament to the project’s appeal and impact. 
 
 5. Honorable Mentions
- - **Description:** For outstanding freshman and sophomore projects, we offer special certificates. 
+   - **Description:** For outstanding freshman and sophomore projects, we offer special certificates. 
 
 ## Project Judging Criteria
 Projects will be judged on the following criteria:
