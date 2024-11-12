@@ -54,7 +54,7 @@ Apply now to secure your spot in the GDSC project showcase! [Registration Link](
    - **Description:** Acknowledges the team that successfully merges insights from multiple fields, such as medtech, biotech, or IT, to create a project with a broad or unique perspective.
 
 4. **People’s Choice Award**
-   - **Prize:** $25 per team member + Domain expert recognition
+   - **Prize:** $25 per team member
    - **Description:** Chosen by event attendees, this award encourages engagement and celebrates the project that resonates most with the audience. It’s a testament to the project’s appeal and impact. 
 
 5. Honorable Mentions
