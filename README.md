@@ -17,7 +17,7 @@ We welcome tech-driven projects from any discipline—whether it's software, res
 
 ## Registration
 
-Apply now to secure your spot in the GDSC project showcase! [Registration Link](https://webservices.ulm.edu/webforms/form/gdsc-project-showcase-application)
+Apply now to secure your spot in the GDSC project showcase! [Registration Link](https://webservices.ulm.edu/webforms/form/gdsc-project-showcase-application)[Application Closed]
 
 ## Event Format
 
