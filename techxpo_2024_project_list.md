@@ -22,7 +22,7 @@
 - **Description**: Upgrades the existing banner system with enhanced UX/UI and features like digital college ID and a lost-and-found system.
 - **Members**: 
   - **Unnayan Thapa**: thapau@warhawks.ulm.edu
-  - **Sulav Dhakal**: No email provided
+  - **Sulav Dhakal**
 
 ### Website to Ebook Converter
 - **Category**: Software Development
@@ -47,7 +47,7 @@
 - **Description**: Develops a U-Net model for precise image labeling with innovative training methods to improve adaptability.
 - **Members**: 
   - **Rohan Shrestha**: shrestharo@warhawks.ulm.edu
-  - **Himal Ranabhat**: No email provided
+  - **Himal Ranabhat**
 
 ### ULM-Info-Hub
 - **Category**: AI & Machine Learning
