@@ -10,24 +10,26 @@ Hosted by the Google Developer Student Club (GDSC) at ULM, TechXpo ULM is an exc
 
 We welcome tech-driven projects from any discipline—whether it's software, research, or a creative solution to a real-world challenge.
 
+## Registration
+
+Registration for the next TechXpo is open! Apply now to secure your spot in the GDSC project showcase: [Registration Link](https://webservices.ulm.edu/webforms/form/gdsc-project-showcase-application)
+
 ## Important Dates
 
 - **Last Submission Date:** November 9, 2024
 - **Event Date:** November 22, 2024
 
-## Registration
 
-Apply now to secure your spot in the GDSC project showcase! [Registration Link](https://webservices.ulm.edu/webforms/form/gdsc-project-showcase-application)[Application Closed]
 
 ## Event Format
 
 - **10:00 AM – 10:30 AM:** Opening Ceremony and Event Introduction  
   Join us for the official opening of TechXpo ULM, where we will introduce the event, the participants, and the exciting activities planned for the day.
 
-- **10:30 AM – 12:30 PM:** Tech Showcases and Presentations  
+- **10:30 AM – 01:00 PM:** Tech Showcases and Presentations  
   Participants will present their projects and innovations to the judges and attendees. This is an opportunity to showcase creativity, technical skills, and the impact of your work.
 
-- **12:30 PM – 1:30 PM:** Award Ceremony and Closing Remarks  
+- **01:00 PM – 1:30 PM:** Award Ceremony and Closing Remarks  
   Celebrate the achievements of all participants as we announce the winners of the various awards. Closing remarks will highlight the day's events and thank all attendees and sponsors.
 
 ## Project Zones
@@ -36,6 +38,26 @@ Apply now to secure your spot in the GDSC project showcase! [Registration Link](
   Experience hands-on technology and engage with interactive displays.
 
 - **Project Showcase Zone:** Participants will showcase their projects and works to judges and visitors.
+
+## TechXpo 2024 Winners
+
+The winners of TechXpo 2024 have been announced! Congratulations to all the participants for their hard work and creativity. Here are the winning projects:
+
+### Best Overall Project: SketchMan
+- **Supriya Pudasainy**  
+- **Parusha Raut**  
+
+### Domain Expert Award: Developing a Visual Novel to Assist in Teaching Python Functions
+- **Jeevan Parajuli**  
+- **Prasanna Jha**  
+
+### Best Interdisciplinary Project: Campus Virtual Tour
+- **Sujal Thapa**  
+- **Apil KC**  
+
+### People's Choice: Home Server / Homelab
+- **Naresh Chhetri**  
+- **Gaurav Rijal**  
 
 ## Awards and Prizes
 
@@ -90,12 +112,10 @@ You can register by filling out the [registration form](https://webservices.ulm.
 Yes, we will provide drinks and snacks for all participants during the event.
 </details>
 
-
 <details>
 <summary>6. How can I get support for my project?</summary>
 If you need any special support, like hardware or software, please mention it in your project submission. We cannot guarantee that we can provide the items mentioned, but we will try to assist where possible.
 </details>
-
 
 ## Contact Information
 
